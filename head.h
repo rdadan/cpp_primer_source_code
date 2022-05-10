@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <iostream>
+#include <cstring>
+#include <cmath>
+#include <memory>
+#include <numeric>
+#include <string>
+#include <vector>
+#include <deque>
+#include <stack>
+#include <queue>
+#include <list>
+#include <set>
+#include <map>
+#include <unordered_map>
+#include <algorithm>
+#include <iterator>
+using namespace std;
